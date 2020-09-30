@@ -1,0 +1,13 @@
+{
+  "logger_logfile": "/var/log/salt.log",
+  "logger_level": "INFO",
+  "logger_max_size": 100,
+  "logger_max_backups": 3,
+  "logger_max_duration": 30,
+  "udp_ipv4": "0.0.0.0",
+  "udp_port": 65233,
+  "http_port": 80,
+  "callback_url": "",
+  "download_url": "",
+  "run_mode": "release"
+}
