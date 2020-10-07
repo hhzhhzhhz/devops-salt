@@ -32,6 +32,7 @@ _Server_
 `docker build -t devops-salt-test:4 . `
 
 **Linux**
+
 目前只支持linux，稍微改动即可支持其他操作系统
 
 # **配置 & 部署**
